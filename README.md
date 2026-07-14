@@ -1,6 +1,6 @@
 ﻿---
 <div align="center">
-  <h1>JTBD Innovation OS 4.0</h1>
+  <h1>JTBD Innovation OS </h1>
   <p><strong>企业级 AI 用户洞察与产品创新操作系统</strong></p>
   <p>基于 Jobs-to-be-Done 2.0 方法论的 Multi-Agent 产品创新工作流</p>
   <p>
@@ -14,7 +14,7 @@
 
 ## 📖 项目简介
 
-**JTBD Innovation OS 4.0** 不是一个普通的 JTBD 分析 Prompt。它是一个完整的 Multi-Agent 产品创新操作系统，将原始用户声音转化为可执行的商业创新决策。
+**JTBD Innovation OS ** 是一个完整的 Multi-Agent 产品创新操作系统，能够将原始用户声音转化为可执行的商业创新决策。
 
 > People do not buy products. They hire products to make progress.
 
